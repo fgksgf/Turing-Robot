@@ -1,5 +1,5 @@
 # Turing-Robot
-基于 [图灵机器人](www.tuling123.com) 的字符界面聊天程序, 类似与 [微软小冰](http://baike.baidu.com/link?url=a9-Afrb6iFK3XJehS5RSmYlIbIok4XkRLkHRzKz4bBaqL5R7ypXxebU-YOCQQO-KOCeJX0FtxvsquoOefpbi8qDl_oSwQ8dykBdTyCe0-trhL-1E-NnS4rLkUJsGAXn0)。
+基于 [图灵机器人](http://www.tuling123.com) 的字符界面聊天程序, 类似与 [微软小冰](http://baike.baidu.com/link?url=a9-Afrb6iFK3XJehS5RSmYlIbIok4XkRLkHRzKz4bBaqL5R7ypXxebU-YOCQQO-KOCeJX0FtxvsquoOefpbi8qDl_oSwQ8dykBdTyCe0-trhL-1E-NnS4rLkUJsGAXn0)。
 
 A Chinese chat program with character interface based on tuling robot.
 
@@ -42,5 +42,5 @@ A Chinese chat program with character interface based on tuling robot.
 
 
 ---
-### 实现原理请戳 ----> [我的博客](fgksgf.me)
+### 实现原理请戳 ----> [我的博客](http://fgksgf.me)
 
