@@ -10,6 +10,10 @@ API_KEY = ''
 USER_ID = ''
 
 
+# 填写机器人名字
+NAME = 'AI'
+
+
 # 生成请求信息，格式为json
 def make_json(info):
     return {
@@ -26,7 +30,7 @@ def fetch_text(j):
 
 # 根据返回数据类型打印信息
 def print_response(response):
-    print('Alla: ', response['text'])
+    print(NAME + ': ', response['text'])
 
     # 文本类回复
     if response['code'] == 100000:
@@ -59,7 +63,7 @@ def print_response(response):
 
 def main():
     if API_KEY == '' or USER_ID == '':
-        print('You should fill the APIKEY and username into tuling.py firstly.')
+        print('Please fill the APIKEY and username into tuling.py firstly.')
         return
 
     while True:
